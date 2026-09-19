@@ -46,6 +46,9 @@ I also have experience working with network infrastructure, fiber optics, troubl
 
 <img width="800" height="500" alt="Comptia Security+ CE Cert" src="https://github.com/user-attachments/assets/04c28687-7f51-45c2-bfb7-a4ceb644a081" />
 
+<img width="800" height="500" alt="JavaScriptCertified" src="https://github.com/user-attachments/assets/f37bc5ca-c70c-4c35-b920-cece1287b85d" />
+
+
 
 
 
